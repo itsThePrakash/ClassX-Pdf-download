@@ -1,3 +1,5 @@
+Working with all Classx.co.in and https://massstudy.in/ 
+
 
 # 📄 Direct PDF Extractor & Downloader
 
